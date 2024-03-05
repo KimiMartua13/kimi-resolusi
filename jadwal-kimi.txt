@@ -3,3 +3,4 @@ Jadwal Kimi
     * Foto Bareng
     * Foto sendiri
   - LSP Di Traspac
+  - LSP Di Sekolah
